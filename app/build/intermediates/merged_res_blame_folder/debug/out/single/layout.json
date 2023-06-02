@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_auth.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\src\\main\\res\\layout\\fragment_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_repositories_list.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\src\\main\\res\\layout\\fragment_repositories_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_repository.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\src\\main\\res\\layout\\item_repository.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detail_info.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\IcerockRepoApp\\app\\src\\main\\res\\layout\\fragment_detail_info.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IcerockRepoApp</string>
+    <string name="ed_hint">Personal access token</string>
+    <string name="bt_signIn">Sign in</string>
+    <string name="tvLink">link here</string>
+    <string name="tvLicense">License</string>
+    <string name="tvStars">stars</string>
+    <string name="tvForks">forks</string>
+    <string name="tvLWatchers">watchers</string>
+    <string name="connectionError">Connection error</string>
+    <string name="checkConnection">Check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="error">Something error</string>
+    <string name="checkError">Check your something</string>
+    <string name="repository">Repository Example</string>
+    <string name="language">Language</string>
+    <string name="readme">Readme Example</string>
+</resources>
