@@ -46,7 +46,7 @@ class DetailInfoViewModel(private val appRepository: AppRepository) : ViewModel(
     fun getRepository(repositoryName: String){
         _state.postValue(State.Loading)
 
-        viewModelScope.launch (Dispatchers.IO) {
+        viewModelScope.launch (Dispatchers.IO + _exceptionHandler) {
             val response = appRepository.getRepository(repositoryName)
             if (!response.isSuccessful) _state.postValue(State.Error(response.message()))
             else if (_readmeState.value is ReadmeState.Loaded){
